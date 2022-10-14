@@ -1,0 +1,20 @@
+.coding_container{
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    height: 100vh;
+    padding: 25px;
+}
+
+.coding_card{
+    padding: 45px;
+    background-color: #00000080;
+    border-style: solid;
+    border-color: #48ee59;
+    border-width: 6px;
+}
+
+.coding_heading{
+    color: white;
+    font-family:"Bree Serif";
+    padding: 40px;
+}

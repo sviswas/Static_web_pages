@@ -1,0 +1,56 @@
+
+.cricketer-top-section{
+    background-color:#fb4e71;
+    padding:15px;
+}
+
+.cricketer-name{
+    color: white;
+    font-family:"Roboto";
+    font-size:28px;
+    font-weight:bold;
+}
+.cricketer-description {
+    font-family: "Roboto";
+    color:#ffffff;
+    font-size:14px;
+}
+.cricketer-bottom-section{
+    background-color:#e6f6ff;
+    height:500px;
+    padding:10px;
+}
+.sub-heading{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-size:16px;
+    font-weight:bold;
+    padding:8px;
+}
+.cricketer-ipl-records-card{
+    background-color:#ffffff;
+    border-radius:12px;
+    margin:5px;
+}
+.cricketer-ipl-records-text-container{
+    padding:8px;
+}
+.cricketer-ipl-records-card-heading{
+    font-size: 14px;
+    font-family: "Roboto";
+    color:#323f4b;
+    font-weight:500;
+}
+.cricketer-ipl-records-description{
+    color:#888888;
+    font-family:"Roboto";
+    font-size:14px;
+}
+.cricketer-vedio-text-container{
+    width:96px;
+    margin:5px;
+}
+.cricketer-vedio-description{
+    font-family:"Roboto";
+    font-size:12px;
+}

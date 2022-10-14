@@ -1,0 +1,50 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.advanced-technologies-card{
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding:25px;
+}
+
+.advanced-technologies-title{
+    font-family: "Bree Serif";
+    color: #5752ab;
+    font-size:24px;
+}
+
+.advanced-technologies-description{
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.learn-more-button{
+    color:#171f46;
+    font-family:"Roboto";
+    font-size:12px;
+    font-weight:500;
+    width:126px;
+    height:38px;
+    margin-right:5px;
+    border-style:solid;
+    border-width:1px;
+    border-radius: 8px;
+    background-color:#ffffff;
+}
+
+.save-draft-button{
+    color:#ffffff;
+    border-width:0px;
+    font-family:"Roboto";
+    font-size:12px;
+    font-weight:500;
+    width:126px;
+    height:38px;
+    margin-left:5px;
+    border-radius: 8px;
+    background-color: blue;
+}

@@ -1,0 +1,43 @@
+.background_image {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+  background-size: cover;
+  padding: 24px;
+}
+
+.sub-heading_similar-moves {
+  font-size: 31px;
+  font-style: normal;
+  color: white;
+}
+
+.paragraph {
+  color: rgb(231, 222, 222);
+  font-size: 14px;
+  font-family: "arial";
+}
+
+.heading_finding_nemo {
+  color: white;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.movie_heading_container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.button {
+  background-color: white;
+  color: orange;
+  margin-left: 200px;
+  border-radius: 10px;
+  border-width: 0px;
+  height: 50px;
+  width: 140px;
+}
+
+.similar-movie-image {
+  margin-left: 5px;
+  margin-right: 5px;
+}

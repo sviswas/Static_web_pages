@@ -1,0 +1,43 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    background-size: cover;
+    height: 100vh;
+    padding:20px;
+}
+
+.hotel-details-card{
+    background-color: #000000e6;
+    padding: 20px;
+    border-radius: 16px;
+}
+
+.hotel-name{
+    color:#ffffff;
+    font-family:"Bree Serif";
+    font-size:22px;
+}
+.hotel-location{
+    color:#ffffff;
+    font-size:14px;
+    font-weight:500;
+    font-family:"Roboto";
+}
+
+.hotel-room-price{
+    color: white;
+    font-size: 22px;
+    font-family: "Bree Serif";
+}
+
+.button{
+    background-color: white;
+    height: 38px;
+    width: 128px;
+    border-radius:8px;
+    font-size: 12px;
+}
+
+.button-container{
+    text-align: center;
+    margin:20px;
+}
