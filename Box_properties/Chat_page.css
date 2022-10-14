@@ -1,0 +1,35 @@
+.background_image{
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.Mainheading_Rahul{
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+    color:white;
+    font-family: "Roboto";
+    background-color: #323f4b;
+}
+
+.padding_alignment{
+    padding: 8px;
+    color: #ffffff;
+}
+
+.Text_left{
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #52606d;
+    border-bottom-left-radius: 10px;
+}
+.Text_right{
+    padding: 10px;
+    background-color: #47a3f3;
+    text-align: right;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
